@@ -1,0 +1,10 @@
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.csprojResolveAssemblyReference.cache
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.Form1.resources
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.Properties.Resources.resources
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.csproj.GenerateResource.Cache
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.csproj.CoreCompileInputs.cache
+C:\_SOFTDev\CSVG\klases\bin\Debug\klases.exe.config
+C:\_SOFTDev\CSVG\klases\bin\Debug\klases.exe
+C:\_SOFTDev\CSVG\klases\bin\Debug\klases.pdb
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.exe
+C:\_SOFTDev\CSVG\klases\obj\Debug\klases.pdb

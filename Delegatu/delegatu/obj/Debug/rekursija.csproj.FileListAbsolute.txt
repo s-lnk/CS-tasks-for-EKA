@@ -1,0 +1,10 @@
+C:\_SOFTDev\CSVG\Rekursija\rekursija\bin\Debug\rekursija.exe.config
+C:\_SOFTDev\CSVG\Rekursija\rekursija\bin\Debug\rekursija.exe
+C:\_SOFTDev\CSVG\Rekursija\rekursija\bin\Debug\rekursija.pdb
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.csprojResolveAssemblyReference.cache
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.Form1.resources
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.Properties.Resources.resources
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.csproj.GenerateResource.Cache
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.csproj.CoreCompileInputs.cache
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.exe
+C:\_SOFTDev\CSVG\Rekursija\rekursija\obj\Debug\rekursija.pdb

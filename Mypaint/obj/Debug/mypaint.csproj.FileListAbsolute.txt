@@ -1,0 +1,10 @@
+C:\_SOFTDev\CSVG\mypaint\bin\Debug\mypaint.exe.config
+C:\_SOFTDev\CSVG\mypaint\bin\Debug\mypaint.exe
+C:\_SOFTDev\CSVG\mypaint\bin\Debug\mypaint.pdb
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.g.resources
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.Form1.resources
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.Properties.Resources.resources
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.csproj.GenerateResource.Cache
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.csproj.CoreCompileInputs.cache
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.exe
+C:\_SOFTDev\CSVG\mypaint\obj\Debug\mypaint.pdb

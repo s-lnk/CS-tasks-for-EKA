@@ -1,0 +1,10 @@
+C:\_SOFTDev\CSVG\db\bin\Debug\db.exe.config
+C:\_SOFTDev\CSVG\db\bin\Debug\db.exe
+C:\_SOFTDev\CSVG\db\bin\Debug\db.pdb
+C:\_SOFTDev\CSVG\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+C:\_SOFTDev\CSVG\db\obj\Debug\db.Form1.resources
+C:\_SOFTDev\CSVG\db\obj\Debug\db.Properties.Resources.resources
+C:\_SOFTDev\CSVG\db\obj\Debug\db.csproj.GenerateResource.Cache
+C:\_SOFTDev\CSVG\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+C:\_SOFTDev\CSVG\db\obj\Debug\db.exe
+C:\_SOFTDev\CSVG\db\obj\Debug\db.pdb
